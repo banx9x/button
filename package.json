@@ -1,9 +1,9 @@
 {
     "name": "@banx9x/button",
     "publishConfig": {
-        "registry": "https://npm.pkg.github.com/banx9x"
+        "@banx9x:registry": "https://npm.pkg.github.com/"
     },
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Simple React Library",
     "author": "Ba Nguyễn",
     "main": "dist/cjs/index.js",
